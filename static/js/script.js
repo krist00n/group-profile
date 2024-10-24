@@ -10,6 +10,7 @@
                       <img src="${member.image}" alt="${member.name}" class="img-fluid rounded-circle">
                       <h2>${member.name}</h2>
                       <h5>${member.nim}</h5>
+                      <h5>${member.education}</h5>
                       <p>${member.bio}</p>
                       <div class="social-links">
                           <a href="${member.instagram}" target="_blank" class="instagram">

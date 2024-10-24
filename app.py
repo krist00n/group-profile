@@ -7,6 +7,7 @@ team_members = [
     {
         "name": "Gilang Wahyu Pratama",
         "nim": "22.83.0904",
+        "education": "S1 Teknik Komputer Amikom",
         "bio": "saya Gilang, saya berasal dari jawa, saya kuliah di sini, hobi saya mancing (mainan alat pancing)",
         "image": "/static/images/gilang.jpg",
         "instagram": "https://www.instagram.com/gilang.w26_/",
@@ -15,6 +16,7 @@ team_members = [
     {
         "name": "M. Hisyam Ramadhan",
         "nim": "22.83.0938",
+        "education": "S1 Teknik Komputer Amikom",
         "bio": "Halo saya Hisyam, saya brasal dari Sleman Yogyakarta, prodi Teknik Komputer Universitas Amikom Yogyakarta",
         "image": "/static/images/hisyam.jpg",
         "instagram": "https://www.instagram.com/mhmd.hisyam_",
@@ -23,6 +25,7 @@ team_members = [
     {
         "name": "Faesal Krisna Wijaya",
         "nim": "22.83.0901",
+        "education": "S1 Teknik Komputer Amikom",
         "bio": "Manusia sederhana yang belum punya apa-apa.",
         "image": "/static/images/krisna.jpg",
         "instagram": "https://instagram.com/n0tany1_",
@@ -31,6 +34,7 @@ team_members = [
     {
         "name": "Marlinda Veronica O N",
         "nim": "21.83.0615",
+        "education": "S1 Teknik Komputer Amikom",
         "bio": "Perkenalkan nama saya Vero. Saya berkuliah di Universitas Amikom Yogyakarta. Asal saya dari papua, dan hobi saya saat ini adalah menyanyi dan gitar.",
         "image": "/static/images/vero.jpg",
         "instagram": "https://www.instagram.com/ocyeanic.feronif/",
