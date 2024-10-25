@@ -28,8 +28,8 @@ team_members = [
         "education": "S1 Teknik Komputer Amikom",
         "bio": "Manusia sederhana yang belum punya apa-apa.",
         "image": "/static/images/krisna.jpg",
-        "instagram": "https://instagram.com/n0tany1_",
-        "instagram_username": "n0tany1"
+        "instagram": "https://instagram.com/krist00n_",
+        "instagram_username": "kist00n_"
     },
     {
         "name": "Marlinda Veronica O N",
