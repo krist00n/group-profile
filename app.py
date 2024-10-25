@@ -28,14 +28,14 @@ team_members = [
         "education": "S1 Teknik Komputer Amikom",
         "bio": "Manusia sederhana yang belum punya apa-apa.",
         "image": "/static/images/krisna.jpg",
-        "instagram": "https://instagram.com/krist00n_",
+        "instagram": "https://www.instagram.com/krist00n_",
         "instagram_username": "kist00n_"
     },
     {
         "name": "Marlinda Veronica O N",
         "nim": "21.83.0615",
         "education": "S1 Teknik Komputer Amikom",
-        "bio": "Perkenalkan nama saya Vero. Saya berkuliah di Universitas Amikom Yogyakarta. Asal saya dari papua, dan hobi saya saat ini adalah menyanyi dan gitar.",
+        "bio": "Perkenalkan nama saya Vero. Saya berkuliah di Universitas Amikom Yogyakarta. Asal saya dari papua, dan hobi saya saat ini adalah menyanyi dan bermain gitar.",
         "image": "/static/images/vero.jpg",
         "instagram": "https://www.instagram.com/ocyeanic.feronif/",
         "instagram_username": "ocyeanic.feronif"
